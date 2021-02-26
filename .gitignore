@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/python
 
 ### Python ###
@@ -68,3 +67,6 @@ bin/
 venv/
 
 nose2-junit.xml
+
+# IDE
+.idea
